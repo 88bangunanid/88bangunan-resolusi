@@ -1,0 +1,4 @@
+88BANGUNAN RESOLUSI
+- Membuat website katalog
+- Membuat website portofolio dengan menggunakan simple backend / backend yang sederhana
+- Membuat website basis e-commerce sederhana secara sederhana dengan telah mengimplementasikan payment gateway
